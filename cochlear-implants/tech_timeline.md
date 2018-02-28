@@ -1,0 +1,61 @@
+# Tech Timeline
+### Cochlear Implants
+
+- 1977: Mona Andersson
+  - 1st recipient of "Baha": bone conduction hearing implant by Dr. Graeme Clark
+- 1977: Clark's discoveries
+  - figures out how to get electrode placed securely in inner ear
+  - experimented with blade of grass and shell on beach
+  - discovers importance of graded stiffness in design of electrode
+- 1977: Engineers Jim Patrick and Ian Forster
+  - present circuit diagram for the Mastermos silicon chip that will provide circuitry to 1/10 stimulus channels of first bionic ear
+- 1978: Rod Saunders
+  - 1st Cochlear recipient with multichannel stimulation
+- 1979: "Nucleus"
+  - medical device group
+  - teams up with Australian Government to develop commercially available CI
+- 1980: George Watson
+  - 1st recipient
+  - portable speech processor with magnet-less headset
+- 1982: First Nucleus Implant
+  - 1st commercial Nucleus implant
+  - done at the University of Melbourne
+  - recipient: Graham Carrick
+- 1985: FDA Approval
+  -FDA approves Nucleus implant system with multichannel CI to be used by deaf adults 18+
+- 1989: New mini speech processor
+  - smaller mini speech processor (MSP)
+  - smaller and lighter than original WSP
+  - has MPEAK speech coding strategy: improved performance, better size for children
+- 1990: US FDA Approval
+  - Approves Nucleus CI system for children 2-17 y/o
+- 1997-1998 Product Innovation
+  - Introduces SPrint: powerful bodyworn speech processor
+  - 1st MRI- safe implant up to 1.5 tesla introduced
+- 1998 Product Innovation
+  - ESPrit introduced: 1st multichannel BTE processor
+  - worn entirely behind ear: no long cables/extra parts
+- 1998 Product Innovation
+  - Nucleus 24 CI released
+  - electrode has more direct stimulation
+  - removable magnet for American- Standard titanium casing
+- 1999-2000 ACE Speech coding
+  - Nucleus ACE speech coding
+  - customize sounds via combining benefits of pitch information of the SPEAK strategy
+  - higher rates of stimulation
+  - customizable to each person's hearing needs
+- 2002 Produce Innovation
+  - Nucleus 24 Contour Advance
+  - Unique Softip feature: protect delicate cochlea structures
+  - ESPrit 3G introduced
+  - behind-the-ear speech processor with built in telecoil
+- 2005 Product Innovation
+  - Nucleus Freedom system released
+  - 1st water resistant sound processor
+- 2008 Cochlear Hybrid
+ - combines CI and Hearing Aid technology to overcome high frequency loss
+ - High frequency sent to cochlea via implant
+ - Low frequency sounds amplified and sent through ear canal via hearing aid
+- 2010 COcholar Baha 3 BI300 Implant
+ - 1st bone conduction implant with advanced surface technology
+ - reduced time for implant to bond with bone so recipient can access sound sooner
