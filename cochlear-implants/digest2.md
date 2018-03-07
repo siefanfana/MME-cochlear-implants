@@ -1,6 +1,6 @@
 # Digest 2 #
 #### Cochlear Implants ####
-
+#### Procedure & Risks ####
 
 
 ```
@@ -13,7 +13,7 @@ Sources
 - https://www.bcm.edu/healthcare/care-centers/center-hearing-balance/procedures/cochlear-implants
 
 ```
-Summary: Procedure & Risks & Results
+Summary: Procedure & Risks
 ```
 FACTORS THAT EFFECT RESULTS
 - age when receiving cochlear

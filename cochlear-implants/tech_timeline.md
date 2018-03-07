@@ -53,9 +53,9 @@
   - Nucleus Freedom system released
   - 1st water resistant sound processor
 - 2008 Cochlear Hybrid
- - combines CI and Hearing Aid technology to overcome high frequency loss
- - High frequency sent to cochlea via implant
- - Low frequency sounds amplified and sent through ear canal via hearing aid
-- 2010 COcholar Baha 3 BI300 Implant
- - 1st bone conduction implant with advanced surface technology
- - reduced time for implant to bond with bone so recipient can access sound sooner
+  - combines CI and Hearing Aid technology to overcome high frequency loss
+  - High frequency sent to cochlea via implant
+  - Low frequency sounds amplified and sent through ear canal via hearing aid
+- 2010 Cocholar Baha 3 BI300 Implant
+  - 1st bone conduction implant with advanced surface technology
+  - reduced time for implant to bond with bone so recipient can access sound sooner

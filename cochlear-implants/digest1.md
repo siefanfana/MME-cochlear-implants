@@ -1,5 +1,6 @@
 # Digest 1 #
 #### Cochlear Implants ####
+#### What is it & How it works ####
 
 ![cochlear implant](https://wexnermedical.osu.edu/-/media/images/wexnermedical/global/modules/global/flipflop/patient-care/healthcare-services/ears-nose-throat/cochlearimplantff.jpg?la=en&hash=D060C736EFD3A5F65880D0C72E64BD545B0DBC7A)
 
@@ -53,4 +54,4 @@ Additional Commentary
 ```
 - Some of these sources, especially the 1st (cochlear.com) present cochlear implants as a holy grail solution to deafness/hard-of-hearing. It makes is seem as though it should be a given that anyone who struggles with hearing should get a cochlear in order to solve their "problem" and better enjoy life. However, my issue with this is that it enforces stigmas that those who are deaf/hard-of-hearing therefore lead a "damaged" or "lesser" life and are people who are "damaged" that must be fixed. This is definitely not the case. Deaf culture is rich, and in many ways, those who are deaf/hard-of-hearing lead more enriched lives in other aspects than hearing people.
 - Furthermore, the 1st (cochlear.com) article also does not address any risks, failures, or side effects of cochlear implants. It makes it seem like a holy solution. However, there must be risks and reasons that many people do not get CI's that they do not disclose.
-- The information that children who receive CI's prior to the age of 18 months usually receive better results brought up the question of accessibility of CI's. These are undoubtedly expensive and not everyone who wants/needs one can afford one, especially within the time frame of greater success. Questions I want to further explore is how accessible CI's are (study the socioeconomic data of CI recipients) as well as any government/health plan/supplementary financial aid that may be provided for those who want a CI but cannot afford one. 
+- The information that children who receive CI's prior to the age of 18 months usually receive better results brought up the question of accessibility of CI's. These are undoubtedly expensive and not everyone who wants/needs one can afford one, especially within the time frame of greater success. Questions I want to further explore is how accessible CI's are (study the socioeconomic data of CI recipients) as well as any government/health plan/supplementary financial aid that may be provided for those who want a CI but cannot afford one.
