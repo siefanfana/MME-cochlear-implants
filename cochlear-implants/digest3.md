@@ -1,6 +1,6 @@
 # Digest 3 #
 #### Cochlear Implants ####
-#### Participant Observation + Criticism ####
+#### Participant Observation ####
 
 ```
 Sources
@@ -24,4 +24,4 @@ This is why CI receivers must undergo intense speech and language rehabilitation
 ```
 Commentary
 ```
-Based off of the audio simulation, it is VERY hard to understand the audio heard through a CI, and feels almost painful to listen to. I would personally get annoyed with having to hear the static sounds, and put in so much energy and effort to try and decipher the sounds sent to my brain. It would be very difficult to keep up in a conversation, let alone in a loud environment with multiple people talking. This makes me wonder whether it is considered worth it for deaf people/heard of hearing people to get a CI, because it is clearly not a "cure". 
+Based off of the audio simulation, it is VERY hard to understand the audio heard through a CI, and feels almost painful to listen to. I would personally get annoyed with having to hear the static sounds, and put in so much energy and effort to try and decipher the sounds sent to my brain. It would be very difficult to keep up in a conversation, let alone in a loud environment with multiple people talking. This makes me wonder whether it is considered worth it for deaf people/heard of hearing people to get a CI, because it is clearly not a "cure".
